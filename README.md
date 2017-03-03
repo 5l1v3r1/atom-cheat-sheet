@@ -1,6 +1,6 @@
 # atom-cheat-sheet
 
-Keyboard shortcuts for the Atom editor (Windows)
+Keyboard shortcuts for the Atom editor (Windows keys)
 
 ## Navigation
 
